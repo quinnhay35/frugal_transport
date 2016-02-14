@@ -1,0 +1,26 @@
+* frugal_transport
+** features
+*** mode of travel comparison
+    Options should be laid out in a chart format.
+**** public transport
+**** taxi/uber
+**** car
+**** motorcycle
+**** other
+***** motorbike
+***** chinese scooters
+***** moped
+***** bike
+*** input needs to get suggestions
+**** budget
+**** location
+**** miles travelled/time
+**** age
+**** accident history
+** model
+*** visitor object
+**** attributes
+** view
+** controller
+** TODO
+** DONE

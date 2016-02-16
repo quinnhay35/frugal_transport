@@ -7,3 +7,13 @@ DEBUG = True
 SECRET_KEY = 'development key'
 USERNAME = 'admin'
 PASSWORD = 'default' 
+
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return ('yo')
+
+if __name__ == "__main__":
+    app.run()

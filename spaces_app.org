@@ -1,26 +1,27 @@
-* frugal_transport
-** features
-*** mode of travel comparison
-    Options should be laid out in a chart format.
-**** public transport
-**** taxi/uber
-**** car
-**** motorcycle
-**** other
-***** motorbike
-***** chinese scooters
-***** moped
-***** bike
-*** input needs to get suggestions
-**** budget
-**** location
-**** miles travelled/time
-**** age
-**** accident history
-** model
-*** visitor object
-**** attributes
-** view
-** controller
+* Space_app
+** Features List
+   1. See who is available to hangout with
+   2. Show when you are available to hangout
+      - On a schedule
+      - With a button
+      - Manage who can see your availability
+   3. See where there is a hangout
+      Examples 
+      - A music studio session
+      - Someone's house
+      - Bar hoping group location
+      - Track Workout
+      - LAN Party
+      - Coding Session at coffee shop
+   4. Messaging system for those in "Space"
+   5. Facebook/Google Integration
+      + Easy sign-up and friends list population
+** Model
+   - User Object
+   - Space Object
+   - Messaging Instance?
+** View
+** Controller
+** Tests
 ** TODO
 ** DONE

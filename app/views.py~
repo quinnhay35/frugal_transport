@@ -1,0 +1,6 @@
+# from resources import resources
+
+@app.route('/')
+@app.route('/index')
+def index():
+    return 'This will be an app!'
